@@ -1,0 +1,22 @@
+$petitEcran: "max-width: 576px";
+footer {
+  background-color: antiquewhite;
+  text-align: center;
+  h5 {
+    width: auto;
+    height: auto;
+    padding: 20px;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+  }
+  ul {
+    padding: 0;
+  }
+  P {
+    padding: 10px;
+  }
+  a {
+    color: #000;
+  }
+}

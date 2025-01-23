@@ -1,0 +1,25 @@
+.apropos-container {
+  padding: 20px;
+  text-align: center;
+
+  h1 {
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+    color: #333;
+  }
+
+  .apropos-content {
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 1.2rem;
+    color: #555;
+
+    p {
+      margin-bottom: 15px;
+    }
+
+    strong {
+      color: #007bff;
+    }
+  }
+}
